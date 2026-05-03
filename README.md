@@ -1,4 +1,3 @@
-index.html
 <!DOCTYPE html>
 <html>
 <head>
@@ -17,7 +16,7 @@ index.html
   <p>We use your data to provide and improve our services.</p>
 
   <h2>Security</h2>
-  <p>Your data is محفوظ and protected.</p>
+  <p>Your data is secure and protected.</p>
 
   <h2>Contact</h2>
   <p>Email: your@email.com</p>
